@@ -14,7 +14,7 @@ or export OPENAI_API_KEY='...'
 ## Usage
 
 ```
-python main.py +instruction='Take the water from the table to the kitchen counter' 
+python main.py +instruction='Take the water from the table to the kitchen counter' verbose=false
 ```
 Or check `src/notebook.ipynb`
 

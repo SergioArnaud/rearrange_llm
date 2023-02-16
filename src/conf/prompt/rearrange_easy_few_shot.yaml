@@ -12,5 +12,5 @@ examples: |-
 suffix: |-
         Let's go!
         Instruction: <rearrange_instruction>
-        Solution: 
+        Solution:
 input_variable: rearrange_instruction
